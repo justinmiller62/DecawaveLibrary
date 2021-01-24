@@ -19,6 +19,7 @@
 #include <stdbool.h>
 #include <string.h>
 
+#include "hal_spi.h"
 #include "hal_gpio.h"
 #include "hal.h"
 #include "hal_log.h"
